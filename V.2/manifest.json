@@ -1,0 +1,24 @@
+{
+   "browser_action": {
+      "default_icon": "imagenes/icono.png",
+      "default_popup": "bg.html"
+   },
+   
+  
+  "description": "Progreso fortnite Por Jose89fcb 👍",
+ "icons": {
+      "128": "imagenes/icono.png"
+      
+      
+   
+   },
+  
+   "manifest_version": 2,
+   
+   "name": "Progreso fortnite cada temporada 👍",
+   
+   
+   
+   
+   "version": "2.0"
+}
